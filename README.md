@@ -1,3 +1,3 @@
 # java
 first trial project
-println("Hare Krishna");
+print("Hare Krishna")
