@@ -5,5 +5,4 @@ print("Hare Hare")
 print("Hare Rama")
 print("Hare Rama")
 print("Rama Rama")
-print("Hare Hare"
-)
+print("Hare Hare")
