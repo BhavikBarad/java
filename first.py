@@ -1,0 +1,8 @@
+print("Hare Krishna")
+print("Hare Krishna")
+print("Krishana Krishna")
+print("Hare Hare")
+print("Hare Rama")
+print("Hare Rama")
+print("Rama Rama")
+print("Hare Hare")
